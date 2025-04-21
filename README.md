@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/infraestructura-it/infraestructura-it/blob/main/github-banner.png" alt="Infraestructura-IT Banner" width="100%">
+</p>
+
+
+
 # 👋 ¡Hola! Soy Jairo Sepulveda C — @infraestructura-it
 
 🎓 **Ingeniero Electrónico** con amplia experiencia en **infraestructura IT, electrónica embebida y automatización**.  
