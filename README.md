@@ -51,7 +51,7 @@ Mientras tanto, estos son algunos de mis enfoques:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/infraestructurait)
 - 💼 [Portafolio (en construcción)](#)
-- 📧 [Tu correo electrónico aquí]
+- 📧 [jairosepulvedac@gmail.com]
 
 ---
 
