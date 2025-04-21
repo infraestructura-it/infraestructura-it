@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre] — @infraestructura-it
+# 👋 ¡Hola! Soy Jairo Sepulveda C — @infraestructura-it
 
 🎓 **Ingeniero Electrónico** con amplia experiencia en **infraestructura IT, electrónica embebida y automatización**.  
 🎖️ Formación militar, lo que refuerza mi enfoque disciplinado, estratégico y operativo.  
