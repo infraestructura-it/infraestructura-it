@@ -52,6 +52,45 @@ Mientras tanto, estos son algunos de mis enfoques:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/infraestructurait)
 - 💼 [Portafolio (en construcción)](#)
 - 📧 [jairosepulvedac@gmail.com]
+---
+
+## 🗂️ Portafolio de proyectos
+
+### 🔧 Infraestructura IT + Automatización
+
+- 🔌 **Controlador de energía y monitoreo remoto**
+  - 🛠️ *Arduino + ESP32 + Node.js*
+  - 🌐 Interfaz web para control de cargas desde cualquier lugar.
+  - 📁 [Ver repositorio](https://github.com/infraestructura-it/controlador-energia)
+
+---
+
+### 📦 Despliegue de servicios con Docker
+
+- 🐳 **Stack de microservicios Dockerizados**
+  - Incluye: NGINX, Node.js, MongoDB, Redis.
+  - 🔐 Autenticación con JWT y despliegue continuo.
+  - 📁 [Ver repositorio](https://github.com/infraestructura-it/microservicios-docker)
+
+---
+
+### 💡 Proyecto IoT: Estación de Monitoreo
+
+- 🌡️ **Sensor de temperatura y humedad**
+  - Recolección de datos vía MQTT.
+  - Dashboard en tiempo real con gráficos en React.
+  - 📁 [Ver repositorio](https://github.com/infraestructura-it/estacion-iot)
+
+---
+
+### 💻 Panel de control de racks de comunicación
+
+- 🧠 Raspberry Pi + Relays + Web UI
+  - Control físico de equipos desde interfaz web embebida.
+  - Dockerizado, seguro y autónomo.
+  - 📁 [Ver repositorio](https://github.com/infraestructura-it/rack-control-panel)
+
+---
 
 ---
 
